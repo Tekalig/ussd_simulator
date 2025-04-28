@@ -1,0 +1,20 @@
+Available Packages:
+1. Data Package (1GB) - 100 ETB
+2. SMS Package (100 SMS) - 50 ETB
+3. Combo Package (500MB + 50 SMS) - 70 ETB
+4. Voice Package (Daily) - 30 ETB
+5. Voice Package (Weekly) - 150 ETB
+6. Voice Package (Monthly) - 500 ETB
+7. Voice Package (Unlimited for a Year) - 5000 ETB
+8. Voice Package (14 Min + 3 SMS + 15 Min Night Bonus) - 3 ETB
+9. Voice Package (25 Min + 5 SMS + 25 Min Night Bonus) - 5 ETB
+10. Voice Package (60 Min + 10 SMS + 60 Min Night Bonus) - 12 ETB
+11. Voice Package (80 Min + 15 SMS + 80 Min Night Bonus) - 22 ETB
+12. Voice Package (110 Min + 20 SMS + 110 Min Night Bonus) - 30 ETB
+13. Voice Package (137 Min + 25 SMS + 137 Min Night Bonus) - 35 ETB
+14. Voice Package (118 Min + 35 SMS + 118 Min Weekly Night Bonus) - 50 ETB
+15. Voice Package (199 Min + 50 SMS + 199 Min Weekly Night Bonus) - 70 ETB
+16. Voice Package (400 Min + 1GB + 95 SMS + 400 Min Weekly Night Bonus) - 130 ETB
+17. Voice Package (550 Min + 1GB + 120 SMS + 550 Min Weekly Night Bonus) - 165 ETB
+18. Voice Package (1330 Min + 2GB + 195 SMS + 1330 Min Weekly Night Bonus) - 270 ETB
+19. Voice Package (1900 Min + 380 SMS + 1900 Min Weekly Night Bonus) - 525 ETB
