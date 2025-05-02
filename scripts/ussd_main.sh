@@ -2,6 +2,9 @@
 
 # Main menu handler for the USSD simulator
 
+# Source the buy_package_menu.sh script to access its functions
+source scripts/for_who.sh
+
 while true; do
     echo "Welcome to Ethio Telecom USSD Simulator"
     echo "1. Check Balance"
@@ -18,7 +21,7 @@ while true; do
             bash scripts/airtime_topup.sh
             ;;
         3)
-            bash scripts/buy_package.sh
+            buy_package_menu
             ;;
         4)
             echo "Thank you for using Ethio Telecom USSD Simulator. Goodbye!"
