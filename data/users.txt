@@ -1,3 +1,3 @@
 -- Database for storing user information
 -- Database for storing user information
-INSERT INTO users (balance) VALUES (950);
+balance=85
