@@ -1,7 +1,9 @@
 #!/bin/bash
 
 # Function to handle the "Buy Package" submenu
-function buy_package_menu() {
+source scripts/package_type.sh
+
+buy_package_menu() {
     while true; do
         echo "Package:"
         echo "1. For Yourself"
@@ -9,14 +11,14 @@ function buy_package_menu() {
         echo "*. Back to Main Menu"
         read -p "Select Option: " package_option
 
+        echo "[LOG] Selected package option: $package_option" >> logs/ussd_log.txt
+
         case $package_option in
             1)
-                bash scripts/package_type.sh --self
-                exit 0 # Exit after handling the package selection
+                package_type "self"
                 ;;
             2)
-                bash scripts/package_type.sh --gift
-                exit 0 # Exit after handling the package selection
+                package_type "gift"
                 ;;
             "*")
                 break
