@@ -1,0 +1,135 @@
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Missing argument in daily.sh
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Missing argument in daily.sh
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 1
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Missing argument in daily.sh
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+1
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+1
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 1
+1
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[ERROR] Failed to pass argument to package_type.sh
+[LOG] Selected package option: 2
+[LOG] Selected option: 3
+[LOG] Selected option: 3
+[LOG] Selected option: 3
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[ERROR] Failed to pass argument to daily.sh
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected package option: 2
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected package option: 2
+[LOG] Selected option: 3
+[LOG] Selected package option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Argument received in daily.sh: 
+[LOG] Argument received in daily.sh: 
+[LOG] Argument received in daily.sh: 
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected package option: 1
+[LOG] Selected duration: 1
+[LOG] Selected option: 3
+[LOG] Selected option: 3
+[LOG] Selected package option: 1
+[LOG] Selected duration: 1
+[LOG] Selected package option: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 1
+[LOG] Selected duration: 1
+[LOG] Selected option: 1
+[LOG] Selected option: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 2
+[LOG] Selected duration: 1
+[LOG] Selected option: 1
+[LOG] Selected option: 4
