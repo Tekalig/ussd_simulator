@@ -1,5 +1,11 @@
 #!/bin/bash
 
+# import necessary scripts
+source scripts/options/daily.sh
+source scripts/options/weekly.sh
+source scripts/options/monthly.sh
+source scripts/options/night.sh
+
 # Function to display package durations
 display_package_durations() {
     echo "1. Daily"
@@ -12,40 +18,46 @@ display_package_durations() {
 
 # Function to handle user selection for package duration
 handle_duration_selection() {
+    local for_who="$1"
     read -p "Please select a duration: " duration_choice
+
+    echo "[LOG] Selected duration: $duration_choice" >> logs/ussd_log.txt
 
     case $duration_choice in
         1)
             echo "You selected Daily."
-            bash scripts/daily_options.sh
+            daily_package "$for_who"
             ;;
         2)
             echo "You selected Weekly."
-            # Call the procedure for Weekly duration here
+            weekly_package "$for_who"
             ;;
         3)
             echo "You selected Monthly."
-            # Call the procedure for Monthly duration here
+            monthly_package "$for_who"
             ;;
         4)
             echo "You selected Night."
-            # Call the procedure for Night duration here
+            night_package "$for_who"
             ;;
         "**")
             echo "Returning to Main Menu."
-            # Call the main menu procedure here
+            return
             ;;
         "*")
             echo "Returning to Previous Menu."
-            # Call the previous menu procedure here
+            return
             ;;
         *)
             echo "Invalid selection. Please try again."
-            handle_duration_selection
+            handle_duration_selection "$for_who"
             ;;
     esac
 }
 
-# Display the package durations and handle user input
-display_package_durations
-handle_duration_selection
+# Wrapper function for package duration
+package_duration() {
+    local for_who="$1"
+    display_package_durations
+    handle_duration_selection "$for_who"
+}
