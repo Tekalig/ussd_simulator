@@ -17,7 +17,7 @@ handle_duration_selection() {
     case $duration_choice in
         1)
             echo "You selected Daily."
-            # Call the procedure for Daily duration here
+            bash scripts/daily_options.sh
             ;;
         2)
             echo "You selected Weekly."
