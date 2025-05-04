@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# source scripts/package_duration.sh
+source scripts/package_duration.sh
 # Function to display package types
 display_package_types() {
     echo "1. Voice Package"
@@ -13,46 +15,48 @@ display_package_types() {
 
 # Function to handle user selection
 handle_user_selection() {
+    local for_who="$1"
     read -p "Please select a package: " user_choice
 
     case $user_choice in
         1)
             echo "You selected Voice Package."
-            echo "Redirecting to Voice Package options..."
-            bash scripts/package_duration.sh
-            # Add logic to handle Voice Package options here
+            package_duration "$for_who"
             ;;
         2)
             echo "You selected Internet Package."
-            # Call the procedure for Internet Package here
+            package_duration "$for_who"
             ;;
         3)
             echo "You selected SMS Package."
-            # Call the procedure for SMS Package here
+            package_duration "$for_who"
             ;;
         4)
             echo "You selected Voice + Internet Package."
-            # Call the procedure for Voice + Internet Package here
+            package_duration "$for_who"
             ;;
         v)
             echo "You selected Voice + SMS Package."
-            # Call the procedure for Voice + SMS Package here
+            package_duration "$for_who"
             ;;
         "**")
             echo "Returning to Main Menu."
-            # Call the main menu procedure here
+            return
             ;;
         "*")
             echo "Returning to Previous Menu."
-            # Call the previous menu procedure here
+            return
             ;;
         *)
             echo "Invalid selection. Please try again."
-            handle_user_selection
+            handle_user_selection "$for_who"
             ;;
     esac
 }
 
-# Display the package types and handle user input
-display_package_types
-handle_user_selection
+# Wrapper function for package type
+package_type() {
+    local for_who="$1"
+    display_package_types
+    handle_user_selection "$for_who"
+}
