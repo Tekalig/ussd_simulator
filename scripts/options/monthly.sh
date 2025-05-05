@@ -5,6 +5,7 @@ source scripts/utils.sh
 
 # Function to display monthly options
 display_monthly_options() {
+    clear  # Clear the terminal screen before showing monthly options
     echo "Monthly Voice Package."
     echo "1. Birr 100 for 1000Min and 100 SMS with 1000Min night package bonus."
     echo "2. Birr 150 for 1500Min and 150 SMS with 1500Min night package bonus."

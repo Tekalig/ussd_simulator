@@ -5,6 +5,7 @@ source scripts/utils.sh
 
 # Function to display night options
 display_night_options() {
+    clear  # Clear the terminal screen before showing night options
     echo "Night Voice Package."
     echo "1. Birr 2 for 30Min and 5 SMS."
     echo "2. Birr 5 for 100Min and 10 SMS."

@@ -4,6 +4,7 @@ source scripts/utils.sh
 
 # Function to display daily options
 display_daily_options() {
+    clear  # Clear the terminal screen before showing daily options
     echo "Daily Voice Package."
     echo "1. Birr 3 for 14Min and 3 SMS with 14Min night package bonus."
     echo "2. Birr 5 for 25Min and 5 SMS with 25Min night package bonus."

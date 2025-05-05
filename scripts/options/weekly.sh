@@ -5,6 +5,7 @@ source scripts/utils.sh
 
 # Function to display weekly options
 display_weekly_options() {
+    clear  # Clear the terminal screen before showing weekly options
     echo "Weekly Voice Package."
     echo "1. Birr 20 for 150Min and 20 SMS with 150Min night package bonus."
     echo "2. Birr 30 for 250Min and 30 SMS with 250Min night package bonus."

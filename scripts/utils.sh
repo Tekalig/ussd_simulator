@@ -2,14 +2,34 @@
 
 # Common utilities for the USSD simulator
 
+# Add logging to track utility function calls
+log_message() {
+    echo "[LOG] $(date '+%Y-%m-%d %H:%M:%S') - $1" >> logs/ussd_log.txt
+}
+
 # Get user balance from the database
 get_user_balance() {
+    log_message "Retrieving user balance."
     grep "^balance=" data/users.txt | cut -d'=' -f2
+}
+
+# check user to continue
+check_user_continue() {
+    echo "Thank you for using our service!"
+    echo "Do you want to continue using our service? (1 for Yes, 0 for No): "
+    read continue_shopping
+    if [[ $continue_shopping -eq 1 ]]; then
+        ussd_main
+    else
+        echo "Thank you for using our service. Goodbye!"
+        exit 0
+    fi
 }
 
 # Deduct balance for a transaction
 deduct_balance() {
     local amount=$1
+    log_message "Deducting balance: $amount"
     local current_balance=$(get_user_balance)
     if (( current_balance >= amount )); then
         local new_balance=$((current_balance - amount))
@@ -24,6 +44,7 @@ deduct_balance() {
 # Add airtime to the balance
 add_airtime() {
     local amount=$1
+    log_message "Adding airtime: $amount"
     local current_balance=$(get_user_balance)
     local new_balance=$((current_balance + amount))
     sed -i "s/^balance=.*/balance=$new_balance/" data/users.db
@@ -43,6 +64,7 @@ validate_topup_code() {
 
 # Function to confirm the receiver's phone number
 confirm_receiver_number() {
+    clear  # Clear the terminal screen before confirming the receiver's phone number
     local receiver_number
     while true; do
         read -p "Please enter the receiver's phone number: " receiver_number
@@ -97,6 +119,5 @@ confirm_purchase() {
         echo "Purchase canceled."
     fi
 
-    # Return to the main menu after completing the purchase
-    ussd_main
+    check_user_continue
 }

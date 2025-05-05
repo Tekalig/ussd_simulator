@@ -1,0 +1,23 @@
+# Ignore log files
+logs/*.txt
+
+
+# Ignore temporary files
+*.tmp
+*.swp
+
+# Ignore backup files
+*~
+*.bak
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binaries
+*.out
+*.o
+
+# Ignore other unnecessary files
+node_modules/
+.env
