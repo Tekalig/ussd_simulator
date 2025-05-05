@@ -11,4 +11,5 @@ top_up_airtime() {
     else
         echo "Invalid top-up code. Please try again."
     fi
+    check_user_continue
 }
