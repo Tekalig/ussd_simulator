@@ -33,7 +33,7 @@ deduct_balance() {
     local current_balance=$(get_user_balance)
     if (( current_balance >= amount )); then
         local new_balance=$((current_balance - amount))
-        sed -i "s/^balance=.*/balance=$new_balance/" data/users.db
+        sed -i "s/^balance=.*/balance=$new_balance/" data/users.txt
         return 0
     else
         echo "Insufficient balance."
@@ -47,7 +47,7 @@ add_airtime() {
     log_message "Adding airtime: $amount"
     local current_balance=$(get_user_balance)
     local new_balance=$((current_balance + amount))
-    sed -i "s/^balance=.*/balance=$new_balance/" data/users.db
+    sed -i "s/^balance=.*/balance=$new_balance/" data/users.txt
 }
 
 # Update the user's balance in place

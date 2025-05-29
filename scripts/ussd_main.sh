@@ -1,7 +1,10 @@
 #!/bin/bash
 
 # Main menu handler for the USSD simulator
-
+<<com1
+this is the main file for start up the excution of the program
+to run this program use this scripts bash scripts/ussd_main.sh
+com1
 # Source utility and other scripts
 source scripts/utils.sh
 source scripts/for_who.sh

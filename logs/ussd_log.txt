@@ -133,3 +133,958 @@
 [LOG] Selected duration: 1
 [LOG] Selected option: 1
 [LOG] Selected option: 4
+[LOG] Selected option: 3
+[LOG] Selected package option: 1
+[LOG] Selected duration: 1
+[LOG] Selected option: 3
+[LOG] Selected package option: 1
+[LOG] Selected duration: 1
+[LOG] 2025-05-05 02:29:38 - Retrieving user balance.
+[LOG] 2025-05-05 02:30:42 - USSD Main script started.
+[LOG] 2025-05-05 02:30:46 - Selected option: 3
+[LOG] 2025-05-05 02:30:48 - Selected option: 3
+[LOG] 2025-05-05 02:30:50 - Selected option: 3
+[LOG] 2025-05-05 02:30:51 - Selected option: 3
+[LOG] 2025-05-05 02:32:34 - USSD Main script started.
+[LOG] 2025-05-05 02:32:36 - Selected option: 3
+[LOG] 2025-05-05 02:33:04 - USSD Main script started.
+[LOG] 2025-05-05 02:33:05 - Selected option: 3
+[LOG] 2025-05-05 02:33:50 - USSD Main script started.
+[LOG] 2025-05-05 02:33:52 - Selected option: 3
+[LOG] 2025-05-05 02:34:37 - USSD Main script started.
+[LOG] 2025-05-05 02:34:39 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-05 02:35:59 - USSD Main script started.
+[LOG] 2025-05-05 02:36:01 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-05 02:36:37 - Retrieving user balance.
+[LOG] 2025-05-05 02:37:10 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-05 02:38:45 - USSD Main script started.
+[LOG] 2025-05-05 02:38:48 - Selected option: 3
+[LOG] 2025-05-05 02:43:56 - USSD Main script started.
+[LOG] 2025-05-05 02:43:58 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-05 02:44:23 - Retrieving user balance.
+[LOG] 2025-05-05 02:44:39 - Selected option: 4
+[LOG] 2025-05-05 02:44:39 - USSD Main script ended.
+[LOG] 2025-05-05 02:53:53 - Retrieving user balance.
+[LOG] 2025-05-05 02:53:55 - Retrieving user balance.
+[LOG] 2025-05-05 02:57:24 - Retrieving user balance.
+[LOG] 2025-05-05 03:00:13 - Retrieving user balance.
+[LOG] 2025-05-05 03:01:30 - Retrieving user balance.
+[LOG] 2025-05-05 03:01:43 - Retrieving user balance.
+[LOG] 2025-05-05 10:27:15 - Retrieving user balance.
+[LOG] 2025-05-05 10:31:04 - USSD Main script started.
+[LOG] 2025-05-05 10:31:43 - Selected option: 1
+[LOG] 2025-05-05 10:31:45 - Retrieving user balance.
+[LOG] 2025-05-05 10:31:47 - Selected option: 1
+[LOG] 2025-05-05 10:31:49 - Retrieving user balance.
+[LOG] 2025-05-05 10:31:52 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-05 10:32:08 - Retrieving user balance.
+[LOG] 2025-05-05 10:32:55 - USSD Main script started.
+[LOG] 2025-05-05 10:33:06 - Selected option: 2
+[LOG] 2025-05-05 10:33:40 - USSD Main script started.
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:40 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:41 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:42 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:43 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:44 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:45 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:46 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:47 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:33:48 - Selected option: 
+[LOG] 2025-05-05 10:35:01 - USSD Main script started.
+[LOG] 2025-05-05 10:35:05 - Selected option: 3
+[LOG] 2025-05-05 10:35:16 - Selected option: 1
+[LOG] 2025-05-05 10:35:18 - Retrieving user balance.
+[LOG] 2025-05-05 10:37:23 - USSD Main script started.
+[LOG] 2025-05-05 10:37:25 - Selected option: 1
+[LOG] 2025-05-05 10:37:27 - Retrieving user balance.
+[LOG] 2025-05-05 10:37:38 - Selected option: 2
+[LOG] 2025-05-05 10:38:00 - Selected option: 3
+[LOG] 2025-05-05 10:42:22 - USSD Main script started.
+[LOG] 2025-05-05 10:42:25 - Selected option: 3
+[LOG] Selected duration: 1
+[1m[LOG] 2025-05-05 10:48:29 - USSD Main script started.[0m
+[1m[LOG] 2025-05-05 10:48:32 - Selected option: 3[0m
+[LOG] 2025-05-05 10:49:25 - USSD Main script started.
+[LOG] 2025-05-05 10:49:29 - Selected option: 1
+[LOG] 2025-05-05 10:49:31 - Retrieving user balance.
+[LOG] 2025-05-08 21:29:41 - Retrieving user balance.
+[LOG] 2025-05-12 14:07:14 - USSD Main script started.
+[LOG] 2025-05-12 14:07:22 - Selected option: 1
+[LOG] 2025-05-12 14:07:24 - Retrieving user balance.
+[LOG] 2025-05-12 14:08:25 - Selected option: 2
+[LOG] 2025-05-12 14:08:33 - Adding airtime: 50
+[LOG] 2025-05-12 14:08:33 - Retrieving user balance.
+[LOG] 2025-05-12 14:11:43 - Selected option: 1
+[LOG] 2025-05-12 14:11:45 - Retrieving user balance.
+[LOG] 2025-05-12 14:11:53 - Selected option: 2
+[LOG] 2025-05-12 14:12:01 - Adding airtime: 50
+[LOG] 2025-05-12 14:12:01 - Retrieving user balance.
+[LOG] 2025-05-12 14:12:59 - USSD Main script started.
+[LOG] 2025-05-12 14:13:01 - Selected option: 1
+[LOG] 2025-05-12 14:13:03 - Retrieving user balance.
+[LOG] 2025-05-12 14:13:10 - Selected option: 2
+[LOG] 2025-05-12 14:13:15 - Adding airtime: 50
+[LOG] 2025-05-12 14:13:15 - Retrieving user balance.
+[LOG] 2025-05-12 14:13:25 - Selected option: 1
+[LOG] 2025-05-12 14:13:27 - Retrieving user balance.
+[LOG] 2025-05-12 14:13:40 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-12 14:18:52 - Retrieving user balance.
+[LOG] 2025-05-12 14:19:45 - Selected option: 1
+[LOG] 2025-05-12 14:19:47 - Retrieving user balance.
+[LOG] 2025-05-12 14:32:15 - USSD Main script started.
+[LOG] 2025-05-12 14:32:18 - Selected option: 2
+[LOG] 2025-05-12 14:32:29 - Selected option: 3
+[LOG] 2025-05-12 14:32:53 - USSD Main script started.
+[LOG] 2025-05-12 14:32:56 - Selected option: 3
+[LOG] 2025-05-12 14:54:18 - USSD Main script started.
+[LOG] 2025-05-12 15:31:43 - USSD Main script started.
+[LOG] 2025-05-12 15:31:45 - Selected option: 1
+[LOG] 2025-05-12 15:31:47 - Retrieving user balance.
+[LOG] 2025-05-12 15:32:01 - Selected option: 2
+[LOG] 2025-05-12 15:32:08 - Selected option: 2
+[LOG] 2025-05-12 15:33:41 - USSD Main script started.
+[LOG] 2025-05-12 15:33:43 - Selected option: 2
+[LOG] 2025-05-12 15:34:26 - USSD Main script started.
+[LOG] 2025-05-12 15:34:28 - Selected option: 2
+[LOG] 2025-05-12 15:35:38 - USSD Main script started.
+[LOG] 2025-05-12 15:35:39 - Selected option: 1
+[LOG] 2025-05-12 15:35:41 - Retrieving user balance.
+[LOG] 2025-05-12 15:36:00 - USSD Main script started.
+[LOG] 2025-05-12 15:36:02 - Selected option: 2
+[LOG] 2025-05-12 15:36:14 - Selected option: 4
+[LOG] 2025-05-12 15:36:14 - USSD Main script ended.
+[LOG] 2025-05-12 15:38:06 - USSD Main script started.
+[LOG] 2025-05-12 15:38:09 - Selected option: 2
+[LOG] 2025-05-12 15:38:31 - Selected option: 2
+[LOG] 2025-05-12 15:38:37 - Adding airtime: 50
+[LOG] 2025-05-12 15:38:37 - Retrieving user balance.
+[LOG] 2025-05-12 15:38:43 - Selected option: 1
+[LOG] 2025-05-12 15:38:45 - Retrieving user balance.
+[LOG] 2025-05-12 15:44:02 - USSD Main script started.
+[LOG] 2025-05-12 15:44:17 - Selected option: 1
+[LOG] 2025-05-12 15:44:19 - Retrieving user balance.
+[LOG] 2025-05-12 15:44:30 - Selected option: 2
+[LOG] 2025-05-12 15:45:06 - Selected option: 2
+[LOG] 2025-05-12 15:45:13 - Adding airtime: 50
+[LOG] 2025-05-12 15:45:13 - Retrieving user balance.
+[LOG] 2025-05-12 15:45:27 - Selected option: 1
+[LOG] 2025-05-12 15:45:29 - Retrieving user balance.
+[LOG] 2025-05-12 15:46:00 - Selected option: 1
+[LOG] 2025-05-12 15:46:02 - Retrieving user balance.
+[LOG] 2025-05-12 15:46:18 - Selected option: 1g
+[LOG] 2025-05-12 15:46:44 - Selected option: 1
+[LOG] 2025-05-12 15:46:46 - Retrieving user balance.
+[LOG] 2025-05-12 15:46:59 - Selected option: 3
+[LOG] Selected duration: 1
+[LOG] 2025-05-12 15:47:36 - Retrieving user balance.
+[LOG] 2025-05-12 15:48:02 - Selected option: 1
+[LOG] 2025-05-12 15:48:04 - Retrieving user balance.
+[LOG] 2025-05-12 15:48:15 - Selected option: 3
+[LOG] Selected duration: 2
+[LOG] 2025-05-12 15:48:40 - Retrieving user balance.
+[LOG] 2025-05-12 15:49:52 - USSD Main script started.
+[LOG] 2025-05-28 16:34:07 - USSD Main script started.
+[LOG] 2025-05-28 16:34:17 - Selected option: 
+[LOG] 2025-05-28 16:34:19 - Selected option: 4
+[LOG] 2025-05-28 16:34:19 - USSD Main script ended.
+[LOG] 2025-05-28 16:36:38 - USSD Main script started.
+[LOG] 2025-05-28 16:36:41 - Selected option: 4
+[LOG] 2025-05-28 16:36:41 - USSD Main script ended.
